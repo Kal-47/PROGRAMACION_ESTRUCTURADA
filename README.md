@@ -1,6 +1,5 @@
 # PROGRAMACION_ESTRUCTURADA
-Compilado de prácticas hechas a lo largo del cuatrimestre.
+Practicas realizadas en el Parcial N1 de Programacion Estructurada
 
-Alumnos:
-Campos Gallegos Cristian Kalid /
-Díaz Valenzuela Kaleb Alexandro
+Alumno:
+Campos Gallegos Cristian Kalid
